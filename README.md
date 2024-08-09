@@ -12,7 +12,7 @@ This project is a basic web application designed to collect and manage feedback 
 
 
 **Setup:**
-**Local Environment:** Ensure you have a local development environment with PHP, MySQL, and a web server (e.g., [XAMPP](url), WAMP) installed and running.
+**Local Environment:** Ensure you have a local development environment with PHP, MySQL, and a web server (e.g., [XAMPP](https://www.apachefriends.org/download.html), WAMP) installed and running.
 **Database Creation:** Create a MySQL database named campaign_feedback with a table named feedback having the following columns:
 id (INT, Primary Key, Auto Increment)
 name (VARCHAR(100))
