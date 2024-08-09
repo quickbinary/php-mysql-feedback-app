@@ -1,7 +1,7 @@
 # php-mysql-feedback-app
 
 **Campaign Feedback System**
-<h3>Project Overview:<h3>
+<h5>Project Overview:<h5>
 This project is a basic web application designed to collect and manage feedback for a political campaign. It serves as a learning exercise to demonstrate fundamental web development concepts, including HTML, CSS, JavaScript, PHP, and MySQL.
 
 
