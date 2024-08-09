@@ -1,13 +1,15 @@
 # php-mysql-feedback-app
 
 **Campaign Feedback System**
-**Project Overview:**
+<h1>Project Overview:<h1>
 This project is a basic web application designed to collect and manage feedback for a political campaign. It serves as a learning exercise to demonstrate fundamental web development concepts, including HTML, CSS, JavaScript, PHP, and MySQL.
-/***************************************************************************************************/
+
+
 **Key Features:**
 -HTML form for capturing user feedback
 -PHP script to process form data and store it in a MySQL database
 -PHP script to retrieve and display stored feedback
+
 
 **Setup:**
 **Local Environment:** Ensure you have a local development environment with PHP, MySQL, and a web server (e.g., XAMPP, WAMP) installed and running.
@@ -18,7 +20,7 @@ email (VARCHAR(100))
 feedback (TEXT)
 rating (INT)
 submission_date (DATETIME, default to current timestamp)
-/***************************************************************************************************/
+
 **File Structure:**
 feedback_form.html: Contains the HTML form for user input.
 submit_feedback.php: Handles form submission and stores data in the database.
